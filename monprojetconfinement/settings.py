@@ -25,7 +25,7 @@ SECRET_KEY = 'pn9z*x+a4-s4yh3kia_o7#^_$*v1*0gq-wv2uooqcy%ubm60we'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [jenny-kosyk.alwaysdata.net]
 
 
 # Application definition
